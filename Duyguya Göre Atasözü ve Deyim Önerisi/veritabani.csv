@@ -1,0 +1,397 @@
+duygu,atasözü_deyim,anlam
+üzgün,Her işte bir hayır vardır,Başa gelen her olayın bir sebebi ve hayırlı bir yönü olabilir.
+üzgün,Gamına gam katma,Üzüntüyü artırmamak gerekir.
+mutlu,Mutluluk paylaşıldıkça artar,Mutluluk başkalarıyla paylaşıldığında daha da büyür.
+mutlu,Neşe içinde yaşayanın ömrü uzun olur,Sevinçli ve mutlu yaşamak sağlığa iyi gelir.
+sinirli,Öfkeyle kalkan zararla oturur,Öfke ile yapılan işler genelde pişmanlıkla sonuçlanır.
+sinirli,Sinir küpü olmak,Çok sinirli ve öfkeli olmak.
+korkulu,Korkunun ecele faydası yoktur,Korkmak tehlikeli durumları değiştirmez.
+korkulu,Korku rüyaları gerçek yapar,Korkularımız bizi gerçekten korktuğumuz şeylere sürükler.
+sevinçli,Sevincin gözü kördür,Çok sevinen insan tehlikeleri göremez.
+sevinçli,Sevinç gözyaşları dökmek,Sevinçten ağlamak.
+heyecanlı,Heyecanla beklemek,Sabırsızlıkla beklemek.
+heyecanlı,Heyecanı dorukta olmak,En yüksek heyecan seviyesinde olmak.
+endişeli,Endişe etmek boşuna,Endişelenmek fayda sağlamaz.
+endişeli,Endişeden gözüne uyku girmemek,Endişeden uyuyamamak.
+umutlu,Umutla beklemek,İyimser bir şekilde beklemek.
+umutlu,Umut ışığı görmek,Çıkış yolu bulmak.
+gururlu,Gurur duymak,Övünmek.
+gururlu,Gururuna yedirememek,Gururunu incitmek.
+şaşkın,Şaşkınlıktan ağzı açık kalmak,Çok şaşırmak.
+şaşkın,Şaşkınlıktan küçük dilini yutmak,Çok şaşırmak.
+kızgın,Kızgınlıktan küplere binmek,Çok öfkelenmek.
+kızgın,Kızgınlıktan kendini kaybetmek,Öfkeden kontrolü kaybetmek.
+üzüntülü,Üzüntüden içi parçalanmak,Çok üzülmek.
+üzüntülü,Üzüntüden gözüne uyku girmemek,Üzüntüden uyuyamamak.
+neşeli,Neşesi yerinde olmak,Çok mutlu olmak.
+neşeli,Neşesi kaçmak,Sevinci bozulmak.
+kaygılı,Kaygıdan gözüne uyku girmemek,Kaygıdan uyuyamamak.
+kaygılı,Kaygıdan içi parçalanmak,Çok kaygılanmak.
+hevesli,Hevesi kursağında kalmak,Bir şeye çok heveslenip yapamamak veya hayal kırıklığına uğramak.
+hevesli,Hevesle dolup taşmak,Bir şeyi yapma konusunda büyük bir istek duymak.
+pişman,Pişman olacağı bir iş yapmak,Sonradan üzüleceği bir davranışta bulunmak.
+pişman,Keşkelerle yaşamak,Sürekli geçmişteki hatalara üzülmek.
+minnettarlık,Minnet duymak,Birine karşı teşekkür ve şükran hissetmek.
+minnettarlık,Elbette minnettarım,Bir iyiliğe karşı gönülden teşekkür etmek.
+bıkkınlık,Bıkkınlık gelmek,Bir şeyden sıkılıp usanç duymak.
+bıkkınlık,Usanmak bilmemek,Bir şeyden bıkmak yerine devam etmek (tersi anlamıyla bıkkınlık vurgusu).
+havalı,Hava atmak,Kendini beğenmiş bir şekilde övünmek.
+havalı,Burnu havada olmak,Kibirli ve kendini beğenmiş davranmak.
+mahcup,Mahcup olmak,Utanç duyarak sıkılmak.
+mahcup,Yüzüne bakamamak,Utançtan dolayı birine karşı rahat davranamamak.
+cesur,Cesaretini toplamak,Korkuya rağmen bir işe girişmek.
+cesur,Yiğidin harcıdır,Cesaret gerektiren işler güçlü kişiler içindir.
+karamsar,Her şeyin sonu kötü olacak sanmak,Olumsuz düşüncelerle umutsuzluğa kapılmak.
+karamsar,Karanlıkta kalmak,Gelecekle ilgili umutsuz ve karamsar hissetmek.
+iyimser,Her şerde bir hayır vardır,Kötü durumlarda bile olumlu bir yan bulmak.
+iyimser,Güzel günler görmek,Geleceğe umutla bakmak.
+telaşlı,Telaşa kapılmak,Panik ve aceleyle hareket etmek.
+telaşlı,Telaş içinde olmak,Aşırı aceleci ve panik halinde olmak.
+hayalperest,Hayal kurmak,Gerçekleşmesi zor şeyleri düşlemek.
+hayalperest,Kafası bulutlarda olmak,Gerçeklerden uzak hayallere dalmış olmak.
+sıkılmış,Sıkıntı basmak,Bunalmak ve huzursuz hissetmek.
+sıkılmış,İçine fenalık gelmek,Aşırı sıkılmak ve rahatsız olmak.
+özenli,İtina göstermek,Bir işe dikkat ve özenle yaklaşmak.
+özenli,İnce eleyip sık dokumak,Bir şeyi büyük bir titizlikle yapmak.
+hüzünlü,Hüzne boğulmak,Derin bir üzüntüye kapılmak.
+hüzünlü,Gönlü kırık olmak,Hüzünlü ve duygusal olarak incinmiş olmak.
+kibar,İnce ruhlu olmak,Nazik ve kibar davranmak.
+kibar,Ağzından bal damlamak,Çok tatlı ve kibar konuşmak.
+inatçı,İnadına yapmak,Karşı gelerek bir şeyi ısrarla yapmak.
+inatçı,İnatçı keçi gibi olmak,Çok inatçı ve ısrarcı davranmak.
+şefkatli,Şefkat göstermek,Birine karşı sevgi ve merhamet göstermek.
+şefkatli,Ana yüreği gibi olmak,Çok şefkatli ve merhametli olmak.
+sabırsız,Sabırsızlanmak,Bir şeyin olmasını aceleyle istemek.
+sabırsız,Yerinde duramamak,Sabırsızlıktan dolayı sürekli hareket halinde olmak.
+cömert,Eli açık olmak,Cömertçe yardım etmek veya paylaşmak.
+cömert,Verirsen ver vermezsen yerin dibine gir,Cömertlik beklendiğinde cimri olmamak gerekir.
+alıngan,Alınganlık göstermek,Kolayca alınmak ve kırılmak.
+alıngan,Her lafa alınmak,Söylenen her şeyi üstüne alınmak.
+saygılı,Saygı göstermek,Birine karşı hürmet ve nezaket göstermek.
+saygılı,Edep ya hu,Saygılı ve terbiyeli davranmayı ifade eder.
+tembel,Tembellik etmek,İşten kaçmak ve çalışmamak.
+tembel,Tembel teneke,Çok tembel ve işe yaramaz kişi.
+özgüvenli,Kendine güvenmek,Kendi yeteneklerine inanmak.
+özgüvenli,Göğsünü gere gere dolaşmak,Özgüvenle hareket etmek.
+melankolik,Melankoliye kapılmak,Hüzünlü ve dalgın bir ruh haline girmek.
+melankolik,İçine kapanmak,Düşüncelere dalıp sessizleşmek.
+merhametli,Merhamet dilenmek,Birine karşı acıma ve yardım hissi göstermek.
+merhametli,Yüreği yufka olmak,Çok merhametli ve duygusal olmak.
+huzurlu,İçinde huzur olanın yüzü güler,Huzurlu olan kişinin mutluluğu yüzüne yansır.
+huzurlu,Huzur bulmak,Sakinlik ve dinginlik hissetmek.
+kararlı,Azimli sıçan duvarı deler,Kararlı olan kişi zorlukları aşar.
+kararlı,Kararından dönmemek,Verdiği kararda ısrarcı olmak.
+meraklı,Merak kediyi öldürür,Aşırı merak bazen tehlikeli sonuçlar doğurur.
+meraklı,Merakından çatlamak,Bir şeyi öğrenme isteğiyle sabırsızlanmak.
+yorgun,Yorgun düşmek,Çok çalışmaktan veya çabadan dolayı bitkin hale gelmek.
+yorgun,Yorgun argın olmak,Aşırı yorgun ve halsiz olmak.
+utanmış,Yüzü kızarmak,Utançtan dolayı mahcup olmak.
+utanmış,Yer yarılsa da içine girsem,Çok utanıp saklanmak istemek.
+kıskanç,Kıskançlık gözü kör eder,Kıskançlık kişinin doğru düşünmesini engeller.
+kıskanç,Kıskançlıktan çatlamak,Başkalarının başarısını çekememek.
+sabırlı,Sabır selamettir,Sabırlı olmak insanı başarıya ve huzura ulaştırır.
+sabırlı,Sabır taşı olmak,Çok sabırlı ve dayanıklı olmak.
+öfkeli,Öfkesinden kudurmak,Çok sinirlenip kontrolü kaybetmek.
+öfkeli,Öfke baldan tatlıdır,Öfke anında insana cazip gelebilir ama zararlıdır.
+hırslı,Hırs ateşi yakar,Aşırı hırs insanı yıpratır veya yanlış yollara sevk eder.
+hırslı,Hırsına yenik düşmek,Hırsının kontrolünü kaybetmek.
+çaresiz,Çaresiz kalmak,Bir çözüm bulamamak çıkmazda olmak.
+çaresiz,Eli kolu bağlı kalmak,Hiçbir şey yapamamak hareketsiz kalmak.
+mutmain,Gönlü rahat olmak,İçinde hiçbir şüphe veya huzursuzluk olmamak.
+mutmain,Vicdanı rahat olmak,Doğru yaptığına inanmak ve huzurlu olmak.
+hassas,İncinmekten korkmak,Kolayca duygusal olarak etkilenmek.
+hassas,Yüreği cız etmek,Küçük bir olaydan bile duygulanmak.
+umutsuz,Umudunu kesmek,Bir şeyden tamamen vazgeçmek.
+umutsuz,Kara kara düşünmek,Umutsuzca çözüm aramak.
+coşkulu,Coşkuya kapılmak,Büyük bir heyecan ve neşe hissetmek.
+coşkulu,Yüreği kıpır kıpır olmak,Çok coşkulu ve enerjik olmak.
+saygısız,Haddini bilmemek,Terbiyesizce ve saygısızca davranmak.
+saygısız,Saygısızlık etmek,Birine karşı kaba ve uygunsuz davranmak.
+neşesiz,Neşesi sönmek,Mutluluğunu ve keyfini kaybetmek.
+neşesiz,Yüzü asık olmak,Üzgün ve keyifsiz görünmek.
+gurursuz,Gururunu ayaklar altına almak,Kendi değerini hiçe saymak.
+gurursuz,Onurunu zedelemek,Kendine saygısını kaybetmek.
+üzüntüsüz,Gönlü ferah olmak,Hiçbir üzüntü hissetmemek.
+üzüntüsüz,Rahat bir nefes almak,Huzurlu ve kaygısız olmak.
+enerjik,Enerji patlaması yaşamak,Çok canlı ve hareketli olmak.
+enerjik,Yerinde duramamak,Aşırı enerjik ve hareketli olmak.
+kibirli,Kendini beğenmiş olmak,Aşırı gururlu ve kaba davranmak.
+kibirli,Burnu Kaf Dağı’nda olmak,Çok kibirli ve kendini üstün görmek.
+mütevazı,Alçakgönüllü olmak,Kendini övmekten kaçınmak sade davranmak.
+mütevazı,Elbette ki mütevazı,Kendini yüksek görmeden nazik davranmak.
+aşağılanmış,Küçük düşmek,Toplum içinde utanç verici bir duruma düşmek.
+aşağılanmış,Rezil olmak,Herkesin önünde mahcup olmak.
+memnun,Memnun kalmak,Bir durumdan veya olaydan hoşnut olmak.
+memnun,Gönlü hoş olmak,Keyifli ve tatmin olmuş hissetmek.
+korkusuz,Korkusuzca hareket etmek,Hiçbir şeyden çekinmeden davranmak.
+korkusuz,Cesur yürekli olmak,Korkuya kapılmadan güçlü durmak.
+şaşırtıcı,Şaşırtıcı bir şekilde bakakalmak,Beklenmedik bir olay karşısında afallamak.
+şaşırtıcı,Aklın durması,Çok şaşırmak ve ne yapacağını bilememek.
+tedirgin,İçi içini yemek,Huzursuzluktan dolayı kendini yiyip bitirmek.
+tedirgin,Diken üstünde olmak,Sürekli gergin ve rahatsız hissetmek.
+özlem dolu,Özlem çekmek,Birine veya bir şeye hasret duymak.
+özlem dolu,Gözü yolda kalmak,Birinin gelmesini sabırsızlıkla beklemek.
+heyecan verici,Heyecanına yenik düşmek,Heyecanla kontrolü kaybetmek.
+heyecan verici,Kalbinde fırtınalar kopmak,Çok yoğun bir heyecan hissetmek.
+hırçın,Hırçınlaşmak,Öfkeli ve kavgacı bir tavır takınmak.
+hırçın,Kaplan kesilmek,Çok agresif ve sinirli davranmak.
+hoşnut,Hoşnut olmak,Bir durumdan memnun ve mutlu olmak.
+hoşnut,Keyfine diyecek olmamak,Çok memnun ve neşeli olmak.
+hayran,Hayran kalmak,Bir şeye veya birine büyük beğeni duymak.
+hayran,Ağzı açık kalmak,Bir şeyin güzelliği karşısında şaşkınlık yaşamak.
+yılgın,Yılgınlık göstermek,Umudunu ve çabasını kaybetmek.
+yılgın,Kolunu kanadını kırmak,Cesaretini ve azmini yitirmek.
+mutsuz,Gönlü kırık olmak,Üzgün ve hayal kırıklığına uğramış olmak.
+mutsuz,Yüzünden düşen bin parça olmak,Çok mutsuz ve üzgün görünmek.
+sevecen,Sevecen davranmak,Sevgi ve şefkatle yaklaşmak.
+sevecen,Yüreği sıcak olmak,İnsana karşı nazik ve sevgi dolu olmak.
+hayıflanmış,Hayıflanmak,Yapılmayan bir şey için üzülmek.
+hayıflanmış,Keşke demek,Geçmişte yapılan bir hatadan dolayı pişmanlık duymak.
+dingin,Sakin sular gibi olmak,Huzurlu ve telaşsız bir ruh halinde olmak.
+dingin,Gönlü serin olmak,İçsel olarak rahat ve huzurlu hissetmek.
+kıymet bilen,Vefa göstermek,Yapılan iyilikleri unutmamak ve değer vermek.
+kıymet bilen,Değer bilmek,Birinin veya bir şeyin kıymetini anlamak.
+çalışkan,Alın teriyle kazanmak,Çok çalışarak başarı elde etmek.
+çalışkan,İşinin ehli olmak,Bir işte çok çalışkan ve yetkin olmak.
+tutkulu,Ateşli olmak,Bir şeye karşı büyük bir tutkuyla bağlı olmak.
+tutkulu,Yüreği yanmak,Bir şey için aşırı istek ve arzu duymak.
+yalnız,Yapayalnız kalmak,Kimsesiz ve tek başına hissetmek.
+yalnız,Kendi başına olmak,Başkalarına ihtiyaç duymadan yalnız kalmak.
+umursamaz,Umurunda olmamak,Hiçbir şeyi ciddiye almamak.
+umursamaz,Vurdumduymaz olmak,Olaylara karşı kayıtsız kalmak.
+özgür,Kendi bildiğini okumak,Kimseye bağlı olmadan hareket etmek.
+özgür,Kanatlanıp uçmak,Özgürlüğün verdiği mutluluğu hissetmek.
+sevimli,Gözde olmak,Sevilen ve beğenilen biri olmak.
+sevimli,Yüreklere su serpmek,Sevimli davranışlarla insanları mutlu etmek.
+kafa karışık,Aklını oynatmak,Şaşkınlık ve kararsızlık içinde olmak.
+kafa karışık,Kafası allak bullak olmak,Ne yapacağını bilememek.
+vicdanlı,Vicdanı sızlamak,Yaptığı bir yanlıştan dolayı rahatsızlık hissetmek.
+vicdanlı,Vicdan muhasebesi yapmak,Kendi davranışlarını sorgulamak.
+nefret dolu,Nefret kusmak,Birine karşı yoğun öfke ve kızgınlık göstermek.
+nefret dolu,Kin gütmek,Birine karşı uzun süreli düşmanlık beslemek.
+heyecanlanmış,Kalbinde kelebekler uçuşmak,Heyecan ve mutluluk hissetmek.
+heyecanlanmış,Yüreği hop etmek,Aşırı heyecanlanmak.
+üzülmüş,Yüreği yanmak,Derin bir üzüntü hissetmek.
+üzülmüş,Gözleri dolmak,Üzüntüden dolayı ağlamaklı olmak.
+hoşnutsuz,Gönlü razı olmamak,Bir durumdan memnun kalmamak.
+hoşnutsuz,Yüzü ekşimek,Hoşnutsuzluğunu açıkça göstermek.
+korkak,Korkudan öd patlamak,Aşırı korkuyla paniklemek.
+korkak,Korkudan titremek,Korkuyla sarsılmak.
+endişelenmiş,İçi içini yemek,Huzursuzluktan dolayı kendini yiyip bitirmek.
+endişelenmiş,Korkudan beti benzi atmak,Korkuyla solgunlaşmak ve gerginleşmek.
+sıkıntılı,Sıkıntı basmak,Bunalmak ve huzursuz hissetmek.
+sıkıntılı,İçi daralmak,Rahatsız ve bunalmış hissetmek.
+umutlanmış,Gözleri parlamak,Umudun etkisiyle sevinç ve enerji dolmak.
+umutlanmış,Yüreği umutla dolmak,Geleceğe dair olumlu hisler beslemek.
+kırgın,Gönlü kırılmak,Birinden dolayı incinmiş ve üzgün olmak.
+kırgın,Küsmek,Birine karşı dargınlık hissetmek.
+huzursuz,Kalbinde kurt düşmesi,Şüphe ve huzursuzluk hissetmek.
+huzursuz,İçi kıpır kıpır olmak,Huzursuzluktan dolayı yerinde duramamak.
+mağrur,Burnu havada olmak,Kibirli ve kendini beğenmiş davranmak.
+mağrur,Kendini bir şey sanmak,Aşırı gururlu ve kibirli olmak.
+hafif,Hafiflemek,Rahatlamış ve yüklerden kurtulmuş hissetmek.
+hafif,Yüreği ferahlamak,Stresten arınıp hafif bir ruh hali hissetmek.
+merhametsiz,Taş kalpli olmak,Başkalarına karşı acıma hissi göstermemek duygusuz davranmak.
+merhametsiz,Yüreği katılaşmak,Merhametten yoksun sert ve duyarsız davranmak.
+şüpheci,Kurt düşürmek,Bir şeyden veya birinden şüphelenmek güvenmemek.
+şüpheci,Göze batmak,Bir durumun veya kişinin şüphe uyandırması.
+sevgi dolu,Gönülden sevmek,İçten ve samimi bir şekilde sevgi beslemek.
+sevgi dolu,Kalbi sevgiyle dolmak,Birine veya bir şeye karşı derin sevgi hissetmek.
+bunalım,Kara bulutlar dolaşmak,Derin bir mutsuzluk ve çökkünlük hissetmek.
+bunalım,İçine kapanmak,Üzüntüden dolayı sessiz ve durgun olmak.
+hissetmiş,Yüreği titremek,Yoğun bir duyguyla sarsılmak etkilenmek.
+hissetmiş,Kalbi sızlamak,Bir olay karşısında duygusal olarak derinden etkilenmek.
+rahat,Oh be dünya varmış,Stresten kurtulup ferahlamak rahat bir nefes almak.
+rahat,Keyfine bakmak,Sorunsuz ve huzurlu bir şekilde yaşamak.
+hayırsız,Elinden hayır gelmemek,Kimseye fayda sağlamamak bencil davranmak.
+hayırsız,İşe yaramaz olmak,Hiçbir olumlu katkı sunmamak faydasız davranmak.
+kendinden emin,Dimdik ayakta durmak,Kendine güvenerek kararlı ve sağlam bir duruş sergilemek.
+kendinden emin,Göğsünü gere gere konuşmak,Özgüvenle ve cesaretle hareket etmek.
+huzur bozucu,Tadını kaçırmak,Bir ortamın veya kişinin keyfini bozmak rahatsızlık vermek.
+huzur bozucu,Ortalığı karıştırmak,Huzuru bozarak kaos yaratmak.
+tereddütlü,İki arada bir derede kalmak,Kararsızlık içinde bocalamak ne yapacağını bilememek.
+tereddütlü,Ayağı geri geri gitmek,Bir işe başlamakta tereddüt etmek isteksiz olmak.
+naber,Nabzını yoklamak,Birinin durumunu veya niyetini anlamaya çalışmak.
+naber,Hal hatır sormak,Birinin nasıl olduğunu öğrenmek için konuşmak.
+mutlu mu,Yüzü gülmek,Neşeli ve memnun bir ruh hali sergilemek.
+mutlu mu,Keyfi yerinde olmak,Mutlu ve huzurlu bir şekilde davranmak.
+tiksinti,Midesi bulanmak,Bir şeyden iğrenmek veya hoşnutsuzluk hissetmek.
+tiksinti,Yüzünü buruşturmak,Bir şeyden tiksinerek hoşnutsuzluğunu göstermek.
+sorumlu,Sorumluluk almak,Görevlerini yerine getirme bilinciyle hareket etmek.
+sorumlu,Omuzlarına yük binmek,Bir görev veya sorumluluğu üstlenmek.
+hayal kırıklığı,Hayalleri suya düşmek,Beklentilerin boşa çıkmasıyla üzüntü duymak.
+hayal kırıklığı,Yüreği burkulmak,Beklenmedik bir durum karşısında hayal kırıklığı hissetmek.
+ilham almış,İçine doğmak,Bir fikir veya motivasyonla dolup taşmak.
+ilham almış,Aklını başına toplamak,Yeni bir fikirle motive olup harekete geçmek.
+bıkmış,Gına gelmek,Bir şeyden aşırı sıkılmak tahammül edememek.
+bıkmış,Usanmak,Bir durum veya olaydan bıkkınlık duymak.
+güvenli,Güvendiği dağlara kar yağmak,Güvenilen bir şeyin hayal kırıklığı yaratması.
+güvenli,Ayakları yere sağlam basmak,Güvenli ve emin adımlarla hareket etmek.
+hassasiyet,İnce düşünmek,Başkalarının duygularına karşı duyarlı ve özenli davranmak.
+hassasiyet,Kalbi ince olmak,Küçük şeylere bile önem verip duygusal davranmak.
+müzmin,Alışmış kudurmuştan beterdir,Bir şeye alışarak sürekli aynı şeyi yapmak.
+müzmin,Eski köye yeni adet getirmemek,Alışkanlıklarından vazgeçmemek değişime direnmek.
+keyifsiz,Ağzının tadı olmamak,Neşesiz ve mutsuz bir ruh hali içinde olmak.
+keyifsiz,Yüzü düşmek,Mutsuz ve keyifsiz bir şekilde görünmek.
+duyarsız,Taş kesilmek,Hiçbir duyguya kapılmadan soğuk ve ilgisiz kalmak.
+duyarsız,Kalbi mühürlenmek,Duygusal olarak tamamen kapanmak etkilenmemek.
+kayıtsız,Omuz silkmek,Bir şeye karşı ilgisiz ve umursamaz davranmak.
+kayıtsız,Aldırmaz olmak,Olaylara karşı kayıtsız ve tepkisiz kalmak.
+sezgili,İçine doğmak,Bir şeyin olacağını önceden hissetmek.
+sezgili,Altıncı hissi kuvvetli olmak,Sezgileri güçlü olup olayları önceden tahmin etmek.
+sabit fikirli,Kafaya takmak,Bir düşünceye takılıp kalmak esneklik gösterememek.
+sabit fikirli,İnadına kafa tutmak,Fikrinden vazgeçmeyip inatla savunmak.
+bilinçli,Gözü açık olmak,Durumların farkında olup dikkatli davranmak.
+bilinçli,Aklını kullanmak,Bilinçli ve mantıklı kararlar vermek.
+dalgın,Kafası başka yerde olmak,Düşüncelere dalıp çevreden kopmak.
+dalgın,Aklını yitirmek,Dalgınlıktan dolayı çevresine dikkat etmemek.
+ciddi,Ciddiyetini korumak,Duruma uygun şekilde ağırbaşlı ve ciddi davranmak.
+ciddi,Ağır oturup batman gelmek,Ciddi ve vakur bir tavır sergilemek.
+huzur dolu,İçine sine sine yapmak,Huzurlu ve tatmin olmuş bir şekilde hareket etmek.
+huzur dolu,Gönlü ferah olmak,İçsel olarak sakin ve huzurlu hissetmek.
+meydan okuyan,Göze göz dişe diş,Karşısındakine cesurca meydan okumak geri adım atmamak.
+meydan okuyan,Kafa tutmak,Cesaretle karşı durmak meydan okumak.
+hareketsiz,Yerinden kımıldamamak,Hiçbir şey yapmadan pasif kalmak.
+hareketsiz,Tembel tembel oturmak,Hareketsiz ve eylemsiz bir şekilde durmak.
+yenilmez,Yenilgi nedir bilmemek,Her zaman başarılı ve güçlü durmak.
+yenilmez,Dimdik durmak,Hiçbir zorluğa boyun eğmeden ayakta kalmak.
+şaşkınlık,Aklı havada olmak,Dikkati dağınık ne yaptığını bilememek.
+şaşkınlık,Donup kalmak,Beklenmedik bir olay karşısında tepkisiz kalmak.
+iç çekiş,Ah çekmek,Derin bir üzüntüyle iç geçirmek.
+iç çekiş,Of demek,Sıkıntı veya yorgunlukla seslenmek.
+yalvarış,Yalvar yakar olmak,Çaresizce bir şey istemek.
+yalvarış,Diz çökmek,Aciz kalıp yardım dilemek.
+sürpriz,Gözleri fal taşı gibi açılmak,Çok şaşırmak.
+sürpriz,Aklı çıkmak,Aniden gelen sürprizle şok olmak.
+mimikli,Kaş göz işareti yapmak,İşaretle anlaşmak.
+mimikli,Dudak bükmek,Onaylamadığını yüz ifadesiyle göstermek.
+çekingen,Göz göze gelmemek,Utangaçlıktan bakışmaktan kaçınmak.
+çekingen,Sessiz sedasız olmak,Fark edilmemek için geri planda durmak.
+yenilikçi,Çığır açmak,Yeni bir yol yaratmak.
+yenilikçi,Fikir fırtınası yapmak,Yaratıcı fikirler üretmek.
+isyan,Baş kaldırmak,Kurallara karşı gelmek.
+isyan,Ateş püskürmek,Öfkeyle itiraz etmek.
+yakınma,Dert yanmak,Şikayetlerini dile getirmek.
+yakınma,Sızlanmak,Sürekli olumsuz konuşmak.
+maceracı,Göze almak,Riskli işlere atılmak.
+maceracı,Sınırları zorlamak,Alışılmışın dışına çıkmak.
+ikilem,İki dirhem bir çekirdek,Kararsız kalmak.
+ikilem,Arafta kalmak,Ne yapacağını bilememek.
+yüreklendirme,Morali yükseltmek,Cesaret vermek.
+yüreklendirme,Arka çıkmak,Destek olmak.
+kafa karışıklığı,Kafası karışmak,Anlam verememek.
+kafa karışıklığı,Aklı bir karış havada,Dikkati dağınık olmak.
+özenti,Göz boyamak,Başkasını taklit ederek hava atmak.
+özenti,Özentilik yapmak,Gerçek olmayan bir tavır sergilemek.
+teselli,Avutmak,Acısını hafifletmek.
+teselli,Ferahlık vermek,Rahatlatıcı sözler söylemek.
+iştah,Ağzının suyu akmak,Çok istemek.
+iştah,Gözü dönmek,Hırsla bir şeye yönelmek.
+ilgi,Kulak kabartmak,Merakla dinlemek.
+ilgi,Gözünü dikmek,Dikkatle bakmak.
+yorgunluk,Takati kesilmek,Bitkin düşmek.
+yorgunluk,Canı çıkmak,Aşırı yorulmak.
+şüphe,Kulak asmamak,Söylenene inanmamak.
+şüphe,Göz boyamak,Aldatıcı davranmak.
+umutvar,Işık görmek,Çözüm umuduyla bakmak.
+umutvar,Yeşermek,Yeni umutlar beslemek.
+kıvanç,Gurur duymak,Başarıyla övünmek.
+kıvanç,Yüzü gülmek,Mutlulukla parlamak.
+hayret,Ağzı açık kalmak,Şaşkınlıkla bakakalmak.
+hayret,Donakalmak,Şok olup hareket edememek.
+iç geçirme,Of çekmek,Derin bir nefesle rahatlamak.
+iç geçirme,Ah etmek,Hüzünlü bir şekilde iç çekmek.
+tahammül,Sabır taşı,Çok dayanıklı olmak.
+tahammül,Katlanmak,Zorluğa göğüs germek.
+özlem,Gözü yollarda kalmak,Hasretle beklemek.
+özlem,Yüreği sızlamak,Özlemle acı çekmek.
+kıskançlık,Gözü dönmek,Hırsla hareket etmek.
+kıskançlık,Yeis içinde olmak,Kıskançlıktan bunalmak.
+hüzün,İçi burkulmak,Üzüntüyle sarsılmak.
+hüzün,Yüreği daralmak,Sıkıntıdan nefesi kesilmek.
+neşe,Gönlü şen olmak,İçi sevinçle dolu olmak.
+neşe,Cıvıl cıvıl olmak,Enerjik ve mutlu davranmak.
+özveri,Fedakarlık yapmak,Kendinden vermek.
+özveri,Gözünü kırpmamak,Hiç tereddüt etmeden yardım etmek.
+kibir,Burnu büyümek,Kendini beğenmek.
+kibir,Havalara girmek,Aşırı gururlanmak.
+alçakgönüllülük,Mütevazı olmak,Gösterişsiz davranmak.
+alçakgönüllülük,Yere bakmak,Kibir göstermemek.
+yalnızlık,Tek başına kalmak,Kimsesiz hissetmek.
+yalnızlık,Issız kalmak,Yapayalnız olmak.
+paylaşım,Gönülden paylaşmak,İçtenlikle vermek.
+paylaşım,Elden ele vermek,Dayanışma göstermek.
+korku,Yüreği ağzına gelmek,Aniden korkmak.
+korku,Tüyleri diken diken olmak,Ürpermek.
+cesaret,Gözünü karartmak,Risk almak.
+cesaret,Yüreklilik göstermek,Korkusuz davranmak.
+merak,Kulak kabartmak,Dikkatle dinlemek.
+merak,Göz atmak,İncelemek.
+hırs,Gözü dönmek,Aşırı istek duymak.
+hırs,Pes etmemek,Azimle devam etmek.
+pişmanlık,Ah vah etmek,Üzüntüyle sızlanmak.
+pişmanlık,Geriye bakmak,Geçmişe hayıflanmak.
+minik,Küçümsemek,Değer vermemek.
+minik,Gözünde büyütmemek,Önemsiz görmek.
+kızgınlık,Ateş püskürmek,Çok öfkeli bir şekilde konuşmak.
+kızgınlık,Kan beynine çıkmak,Aşırı sinirlenmek.
+kırgınlık,Gönlü kırılmak,Birinin davranışından incinmek.
+kırgınlık,Küsmek,Konuşmamak darılmak.
+kıskanmak,Gözü dönmek,Hırsla hareket etmek.
+kıskanmak,Yeis içinde olmak,Kıskançlıktan bunalmak.
+heyecan,Yüreği hop etmek,Aniden heyecanlanmak.
+heyecan,Kalbinde kelebekler uçuşmak,Sevdiği birini görünce heyecanlanmak.
+endişe,İçi içini yemek,Sürekli kaygı duymak.
+endişe,Diken üstünde oturmak,Gergin ve huzursuz hissetmek.
+umut,Işık görmek,Bir çıkış yolu umuduyla bakmak.
+umut,Yeşermek,Yeni umutlar beslemek.
+minnettar,Gönülden teşekkür etmek,İçtenlikle şükran duymak.
+minnettar,Elbette minnettarım,Yapılan iyiliği unutmamak.
+bıkkın,Gına gelmek,Bir şeyden aşırı sıkılmak.
+bıkkın,Usanmak,Artık dayanamayacak hale gelmek.
+gurur,Burnu havada olmak,Kendini beğenmiş davranmak.
+gurur,Havalara girmek,Aşırı gururlanmak.
+alçakgönüllü,Yere bakmak,Kibir göstermemek.
+alçakgönüllü,Mütevazı olmak,Gösterişsiz davranmak.
+paylaşmak,Elden ele vermek,Dayanışma göstermek.
+paylaşmak,Gönülden paylaşmak,İçtenlikle yardım etmek.
+korkmak,Tüyleri diken diken olmak,Ürpermek.
+korkmak,Yüreği ağzına gelmek, Aniden korkmak.
+cesaretli,Gözünü karartmak,Risk almak.
+cesaretli,Yüreklilik göstermek,Korkusuz davranmak.
+merak etmek,Kulak kabartmak,Dikkatle dinlemek.
+merak etmek,Göz atmak,İncelemek.
+hırslı olmak,Pes etmemek,Azimle devam etmek.
+hırslı olmak,Gözü dönmek,Aşırı istek duymak.
+pişman olmak,Geriye bakmak,Geçmişe hayıflanmak.
+pişman olmak,Ah vah etmek,Üzüntüyle sızlanmak.
+küçümseme,Gözünde büyütmemek,Önemsiz görmek.
+küçümseme,Küçümsemek,Değer vermemek.
+şüphe etmek,Kulak asmamak,Söylenene inanmamak.
+şüphe etmek,Göz boyamak,Aldatıcı davranmak.
+iç geçirmek,Ah etmek,Hüzünlü bir şekilde iç çekmek.
+iç geçirmek,Of çekmek, Derin bir nefesle rahatlamak.
+tahammül etmek,Katlanmak,Zorluğa göğüs germek.
+tahammül etmek,Sabır taşı,Çok dayanıklı olmak.
+özlemek,Yüreği sızlamak,Özlemle acı çekmek.
+özlemek,Gözü yollarda kalmak,Hasretle beklemek.
+neşeli olmak,Cıvıl cıvıl olmak,Enerjik ve mutlu davranmak.
+neşeli olmak,Gönlü şen olmak,İçi sevinçle dolu olmak.
+özverili,Gözünü kırpmamak,Hiç tereddüt etmeden yardım etmek.
+özverili,Fedakarlık yapmak,Kendinden vermek.
+kibirli olmak,Havalara girmek,Aşırı gururlanmak.
+kibirli olmak,Burnu büyümek,Kendini beğenmek.
+alçakgönüllü olmak,Yere bakmak,Kibir göstermemek.
+alçakgönüllü olmak,Mütevazı olmak,Gösterişsiz davranmak.
+yalnız olmak,Issız kalmak,Yapayalnız olmak.
+yalnız olmak,Tek başına kalmak,Kimsesiz hissetmek.
+cesaret etmek,Gözünü karartmak,Risk almak.
+cesaret etmek,Yüreklilik göstermek,Korkusuz davranmak.
+hırslı davranmak,Pes etmemek,Azimle devam etmek.
+hırslı davranmak,Gözü dönmek,Aşırı istek duymak.
+pişmanlık duymak,Geriye bakmak,Geçmişe hayıflanmak.
+pişmanlık duymak,Ah vah etmek,Üzüntüyle sızlanmak.
+üzüntü,İçi burkulmak,Üzüntüyle sarsılmak.
+üzüntü,Gözleri dolmak,Üzüntüden ağlamaklı olmak.
+sevinç,Sevinçten havalara uçmak,Çok mutlu olup heyecanlanmak.
+sevinç,Gözleri ışıl ışıl olmak,Yüz ifadesinden sevincin belli olması.
